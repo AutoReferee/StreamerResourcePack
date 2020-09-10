@@ -1,4 +1,4 @@
-# StreamerResourcePack
+# streamer-resource-pack
 > Minecraft resource pack.
 
 ## Changes
